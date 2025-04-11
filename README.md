@@ -46,7 +46,7 @@ Phages infect bacteria with high specificity through RBPs—proteins that recogn
 
 ## 📖Repository structure
     📂 data/                # Raw and processed data files
-    📂 scripts/             # Scripts for data treatment and methodology
+    📂 src/                 # Scripts for data treatment and methodology
     📂 results/             # Output files, plots, and reports
     📂 docs/                # Documentation and final reports 
     📄 README.md            # Project overview and instructions
