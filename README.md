@@ -22,8 +22,7 @@ Phages infect bacteria with high specificity through RBPs—proteins that recogn
 - Fast Homology Search
 - Machine Learning Integration
 - Structural and Domain-Based Insights
-- User-Friendly & Reproducible
-- Designed with open-source tools and a modular structure for easy reproducibility, customization, and community development.
+- Designed with open-source tools and a modular structure for easy reproducibility, customization, and community development
 
 
 
