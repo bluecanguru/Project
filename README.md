@@ -68,7 +68,7 @@ pip install -r requirements.txt
 - Python 3.10+
 - Biopython
 - Scikit-learn
-- DIAMOND
+- CD-HIT
 - Pandas, NumPy
 
 
