@@ -33,9 +33,10 @@ Phages infect bacteria with high specificity through RBPs—proteins that recogn
    - **Computed RBPs** from literature sources
 
 2. **Sequence Comparison & Clustering**
-    - **DIAMOND** to map similarities between known and candidate RBPs
+    - **CD-HIT** to map similarities between known and candidate RBPs
     - **K-means** to cluster sequences by similarity (unsupervised)
     - **KNN** to classify new RBPs using Euclidean distance metrics (supervised)
+    - **Propythia** to classify proteins
 
 3. **Prediction Validation**
     - RBP FASTA files
