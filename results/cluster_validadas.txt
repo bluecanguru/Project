@@ -1,0 +1,109 @@
+>Cluster 0
+0	1026aa, >P03744... at 53.61%
+1	1341aa, >P07067... *
+>Cluster 1
+0	1132aa, >pdb_00008xci... *
+>Cluster 2
+0	1111aa, >pdb_0000q0pdk6... *
+>Cluster 3
+0	1070aa, >Q858F5... *
+>Cluster 4
+0	984aa, >YP_009168860.1... at 44.51%
+1	1064aa, >Q04830... *
+2	918aa, >CBY99572.1... at 50.00%
+3	811aa, >YP_654148.1... at 73.74%
+4	811aa, >P49714... at 73.24%
+>Cluster 5
+0	1063aa, >AEL79676.1... *
+>Cluster 6
+0	1036aa, >AEM91899.1... *
+>Cluster 7
+0	921aa, >AEM91897.1... *
+1	875aa, >YP_512279.1... at 41.94%
+>Cluster 8
+0	907aa, >P0DTN7... *
+1	907aa, >P0DTN8... at 98.24%
+>Cluster 9
+0	883aa, >K9L8K6... *
+>Cluster 10
+0	880aa, >YP_001671759.1... *
+>Cluster 11
+0	869aa, >YP_003347555.1... *
+>Cluster 12
+0	854aa, >P20345... *
+1	854aa, >P07537... at 97.66%
+>Cluster 13
+0	851aa, >YP_004782195.1... *
+>Cluster 14
+0	810aa, >YP_009788589.1... *
+>Cluster 15
+0	754aa, >YP_009880322.1... *
+>Cluster 16
+0	749aa, >APZ82847.1... *
+>Cluster 17
+0	749aa, >M1EAS5... *
+>Cluster 18
+0	729aa, >AVZ45096... *
+1	722aa, >YP_001671760.1... at 59.14%
+>Cluster 19
+0	684aa, >APZ82848.1... *
+>Cluster 20
+0	667aa, >P12528... *
+>Cluster 21
+0	653aa, >pdb_00006iab... *
+>Cluster 22
+0	648aa, >pdb_00005efv... *
+>Cluster 23
+0	640aa, >P23207.2... *
+>Cluster 24
+0	632aa, >YP_654147.1... *
+1	632aa, >O09496... at 98.73%
+>Cluster 25
+0	627aa, >AEM91898.1... *
+>Cluster 26
+0	623aa, >Q9XJP3... *
+>Cluster 27
+0	616aa, >pdb_00007qlr... *
+>Cluster 28
+0	585aa, >YP_006382457.1... *
+>Cluster 29
+0	576aa, >YP_003347556.1... *
+>Cluster 30
+0	553aa, >P03748... at 78.84%
+1	557aa, >P10308... *
+>Cluster 31
+0	527aa, >P10930... *
+>Cluster 32
+0	504aa, >pdb_00005yvq... *
+>Cluster 33
+0	393aa, >pdb_00004rga... *
+>Cluster 34
+0	381aa, >Q775D6... *
+>Cluster 35
+0	328aa, >P0DJY6... *
+>Cluster 36
+0	327aa, >pdb_00006q3g... *
+>Cluster 37
+0	264aa, >pdb_00001zru... *
+>Cluster 38
+0	249aa, >M1EBB2.1... at 48.59%
+1	260aa, >P07876... at 66.92%
+2	259aa, >Q9G0B4... at 49.03%
+3	262aa, >P07875... *
+4	262aa, >P08234... at 51.91%
+>Cluster 39
+0	247aa, >P22588... *
+>Cluster 40
+0	216aa, >P07627... *
+>Cluster 41
+0	192aa, >YP_009788588.1... *
+>Cluster 42
+0	191aa, >pdb_00002f0c... *
+>Cluster 43
+0	174aa, >pdb_00005e7f... *
+>Cluster 44
+0	146aa, >pdb_00002xc8... *
+>Cluster 45
+0	142aa, >pdb_00002fsd... *
+>Cluster 46
+0	121aa, >NP_112089.1... *
